@@ -102,6 +102,9 @@ body, h1, h2, p, ul, li {
   border:solid black 1px;
   padding: 5px 5px;
   margin: 2px;
+  box-sizing: border-box;
+  width: 300px;
+  height: 475px;
 }
 
 /* Some left and right padding inside the container */
